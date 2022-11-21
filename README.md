@@ -4,4 +4,4 @@
 2. 모든 위젯은 자신만의 BuildContext 을 갖고 있음.
 3. 이 BuildContext는 stateless 위젯이나 state 빌드 메서드에 의해서 리턴된 위젯의 부모가 된다.
 <img width="466" alt="BuildCOntext" src="https://user-images.githubusercontent.com/117615219/202941180-0690af66-864e-4e1d-b95a-e12f6b2dc527.png">
--> 코딩쉐프 - 플러터(flutter) 순한맛 강좌 17 (https://youtu.be/o-HpnWhI70U)
+##### 코딩쉐프 - 플러터(flutter) 순한맛 강좌 17 (https://youtu.be/o-HpnWhI70U)
