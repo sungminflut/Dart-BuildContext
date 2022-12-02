@@ -1,4 +1,4 @@
-## Dart-BuildContext
+## Flutter-BuildContext
 
 1. build method -> (context 포함하여) Return Scaffold Widget 
 2. 모든 위젯은 자신만의 BuildContext 을 갖고 있음.
